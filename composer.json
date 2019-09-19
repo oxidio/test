@@ -11,9 +11,6 @@
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "bin": [
-    "bin/oxidio"
-  ],
   "extra": {
     "branch-alias": {
       "dev-master": "1.x-dev"
