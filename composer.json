@@ -1,0 +1,22 @@
+{
+  "name": "oxidio/test",
+  "type": "library",
+  "description": "oxidio test library",
+  "license": "GPL-3.0",
+  "require": {
+    "oxid-esales/oxideshop-demodata-ce": "^6",
+    "php-coveralls/php-coveralls": "^2.1",
+    "php-fn/test": "^3.0",
+    "php": ">=7.1"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "bin": [
+    "bin/oxidio"
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.x-dev"
+    }
+  }
+}
