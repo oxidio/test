@@ -4,22 +4,11 @@
   "description": "oxidio test library",
   "license": "GPL-3.0",
   "require": {
-    "oxidio/bin": "^1.0",
-    "oxidio/shop": "^6.3",
+    "oxidio/oxidio": "^1.0",
     "oxidio/theme-flow": "^3.3",
-    "oxidio/facts": "^2.3",
-    "oxidio/unified-namespace-generator": "^2.0",
-    "oxidio/composer-plugin": "^2.0",
-    "oxidio/doctrine-migration-wrapper": "^2.1",
-
-    "oxid-esales/oxideshop-demodata-ce": "^6",
-
-    "vlucas/phpdotenv": "^3.4",
-    "symfony/yaml": "^3.4",
-    "php-fn/test": "^3.0",
+    "oxid-esales/oxideshop-demodata-ce": "^6.0",
     "php-coveralls/php-coveralls": "^2.1",
-
-    "php": ">=7.1"
+    "php-fn/test": "^3.0"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
