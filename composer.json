@@ -7,6 +7,9 @@
     "oxidio/oxidio": "^1.0",
     "oxidio/theme-flow": "^3.3",
     "oxid-esales/oxideshop-demodata-ce": "^6.0",
+    "oxid-esales/oxideshop-demodata-installer": "^1.1",
+    "oxid-esales/oxideshop-db-views-generator": "^1.2",
+    "oxid-esales/coding-standards": "^3.0",
     "php-coveralls/php-coveralls": "^2.1",
     "php-fn/test": "^3.0"
   },
