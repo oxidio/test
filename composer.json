@@ -4,7 +4,7 @@
   "description": "oxidio test library",
   "license": "GPL-3.0",
   "require": {
-    "oxidio/oxidio": "^6.3",
+    "oxidio/oxidio": "^6.5",
     "oxidio/theme-flow": "^3.3",
     "oxid-esales/oxideshop-demodata-ce": "^6.0",
     "oxid-esales/oxideshop-demodata-installer": "^1.1",
